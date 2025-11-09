@@ -71,10 +71,23 @@ async function vercelBuild() {
       }
     }
 
-    // 5. Crear archivo de configuración para Vercel si no existe
+    // 5. Verificar configuración de Vercel
     console.log('\n⚡ Verificando configuración de Vercel...');
     if (await fs.pathExists('vercel.json')) {
+      const vercelConfig = await fs.readJson('vercel.json');
       console.log('  ✅ vercel.json encontrado');
+      
+      // Verificar que includeFiles sea string
+      if (vercelConfig.functions && vercelConfig.functions['server.js'] && 
+          vercelConfig.functions['server.js'].includeFiles) {
+        const includeFiles = vercelConfig.functions['server.js'].includeFiles;
+        if (typeof includeFiles === 'string') {
+          console.log('  ✅ includeFiles es string (correcto)');
+        } else {
+          console.log('  ❌ includeFiles debe ser string, no array');
+          throw new Error('includeFiles debe ser string con patrones separados por comas');
+        }
+      }
     } else {
       console.log('  ❌ vercel.json no encontrado');
       throw new Error('vercel.json es requerido para el despliegue');

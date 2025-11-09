@@ -2,7 +2,7 @@
   "version": 2,
   "functions": {
     "server.js": {
-      "includeFiles": ["database.sqlite", "public/**", "src/**"],
+      "includeFiles": "database.sqlite,public/**,src/**",
       "maxDuration": 30
     }
   },
