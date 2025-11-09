@@ -12,6 +12,10 @@ console.log('🔧 Iniciando build para Vercel...');
 
 async function vercelBuild() {
   try {
+    // Obtener directorio raíz del proyecto (subiendo dos niveles desde scripts/)
+    const projectRoot = path.resolve(__dirname, '..');
+    console.log(`📍 Directorio del proyecto: ${projectRoot}`);
+    
     // 1. Verificar que existan los archivos necesarios
     const requiredFiles = [
       'server.js',
@@ -23,7 +27,8 @@ async function vercelBuild() {
 
     console.log('📁 Verificando archivos necesarios...');
     for (const file of requiredFiles) {
-      if (await fs.pathExists(file)) {
+      const filePath = path.join(projectRoot, file);
+      if (await fs.pathExists(filePath)) {
         console.log(`  ✅ ${file}`);
       } else {
         console.log(`  ❌ ${file} - NO ENCONTRADO`);
@@ -36,7 +41,8 @@ async function vercelBuild() {
     
     // Intentar importar el servidor
     try {
-      const serverModule = require('../server.js');
+      const serverPath = path.join(projectRoot, 'server.js');
+      const serverModule = require(serverPath);
       console.log('  ✅ Servidor puede ser importado correctamente');
     } catch (error) {
       console.log('  ⚠️  Advertencia al importar servidor:', error.message);
@@ -44,8 +50,9 @@ async function vercelBuild() {
 
     // 3. Verificar que la base de datos tenga datos
     console.log('\n🗄️  Verificando base de datos...');
-    if (await fs.pathExists('database.sqlite')) {
-      const stats = await fs.stat('database.sqlite');
+    const dbPath = path.join(projectRoot, 'database.sqlite');
+    if (await fs.pathExists(dbPath)) {
+      const stats = await fs.stat(dbPath);
       const sizeKB = (stats.size / 1024).toFixed(2);
       console.log(`  ✅ Base de datos encontrada (${sizeKB} KB)`);
       
@@ -64,7 +71,8 @@ async function vercelBuild() {
     ];
 
     for (const file of frontendFiles) {
-      if (await fs.pathExists(file)) {
+      const filePath = path.join(projectRoot, file);
+      if (await fs.pathExists(filePath)) {
         console.log(`  ✅ ${file}`);
       } else {
         console.log(`  ⚠️  ${file} - No encontrado`);
@@ -73,8 +81,9 @@ async function vercelBuild() {
 
     // 5. Verificar configuración de Vercel
     console.log('\n⚡ Verificando configuración de Vercel...');
-    if (await fs.pathExists('vercel.json')) {
-      const vercelConfig = await fs.readJson('vercel.json');
+    const vercelPath = path.join(projectRoot, 'vercel.json');
+    if (await fs.pathExists(vercelPath)) {
+      const vercelConfig = await fs.readJson(vercelPath);
       console.log('  ✅ vercel.json encontrado');
       
       // Verificar que includeFiles sea string
