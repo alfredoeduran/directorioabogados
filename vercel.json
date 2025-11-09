@@ -1,22 +1,19 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "server.js",
-      "use": "@vercel/node",
-      "config": {
-        "includeFiles": ["database.sqlite", "public/**", "src/**"]
-      }
+  "functions": {
+    "server.js": {
+      "includeFiles": ["database.sqlite", "public/**", "src/**"],
+      "maxDuration": 30
     }
-  ],
+  },
   "routes": [
     {
       "src": "/api/(.*)",
-      "dest": "/server.js"
+      "dest": "server.js"
     },
     {
       "src": "/(.*)",
-      "dest": "/server.js"
+      "dest": "server.js"
     }
   ],
   "env": {
@@ -24,10 +21,5 @@
     "PORT": "3000",
     "ALLOWED_ORIGINS": "*",
     "SCRAPING_ENABLED": "false"
-  },
-  "functions": {
-    "server.js": {
-      "maxDuration": 30
-    }
   }
 }
