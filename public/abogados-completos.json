@@ -1,0 +1,3363 @@
+[
+  {
+    "nombre": "LUDWIG, Martin Dr.",
+    "especialidades": [
+      "Familiar",
+      "Inmobilario",
+      "Laboral",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Kirchheimer Str. 94-96",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "0049-711 45999730 0049-711 4780346",
+      "email": "ra.ludwig@stcoll.de",
+      "web": "www.stcoll.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "MUNUERA SAYAS, Juan Ramón",
+    "especialidades": [
+      "Extranjería",
+      "Inmobilario",
+      "Laboral",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Monreposstraße 49",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "45901",
+      "email": "r.munuera@ak-munuera.de",
+      "web": "www.ak-munuera.de"
+    },
+    "comentario": "MUNUERA SAYAS, Juan Ramón"
+  },
+  {
+    "nombre": "REYHER, Friedrich",
+    "especialidades": [
+      "Civil",
+      "Familiar",
+      "Inmobilario",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Friedrich-Karl-Str. 4",
+      "codigoPostal": "",
+      "localidad": "Mannheim"
+    },
+    "contacto": {
+      "telefono": "0049-621 441893 0049-621 443380",
+      "email": "Kanzlei-reyher@t-online.de",
+      "web": "www.kanzlei-reyher.de"
+    },
+    "comentario": "También puede ejercer como abogado en España. También traductor e"
+  },
+  {
+    "nombre": "RIBAS BRUTSCHY, Miguel",
+    "especialidades": [
+      "Inmobilario",
+      "Laboral",
+      "Mercantil",
+      "Penal",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Marianne-Kirchgessner-Str. 5",
+      "codigoPostal": "",
+      "localidad": "Bruchsal"
+    },
+    "contacto": {
+      "telefono": "45891",
+      "email": "info@rb-abogados.eu",
+      "web": "www.rb-abogados.eu"
+    },
+    "comentario": "Todos sus abogados dominan las dos idiomas, dijo en su email"
+  },
+  {
+    "nombre": "SCHELLE, Wolf-Friedrich",
+    "especialidades": [
+      "Civil",
+      "Inmobilario",
+      "Laboral",
+      "Penal",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Gerokstr. 8",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "0049-711 1203090",
+      "email": "",
+      "web": ""
+    },
+    "comentario": "SCHELLE, Wolf-Friedrich"
+  },
+  {
+    "nombre": "SOLAR, Pablo S.",
+    "especialidades": [
+      "Inmobilario",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Schlüterstr. 28",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "10629",
+      "email": "mail@kanzlei-solar.de",
+      "web": "www.kanzlei-solar.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "SPANDAU, Michaela",
+    "especialidades": [
+      "Inmobilario",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Immenhofer Str. 5",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "0049 711 6735370",
+      "email": "",
+      "web": "https://rechtsanwaelte-js.de/"
+    },
+    "comentario": "Asistencia a víctimas - Infracciones"
+  },
+  {
+    "nombre": "SPANDAU, Michaela",
+    "especialidades": [
+      "Inmobilario",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Rebentalstr. 3",
+      "codigoPostal": "",
+      "localidad": "Reutlingen"
+    },
+    "contacto": {
+      "telefono": "0049 7121 5395655",
+      "email": "",
+      "web": "https://rechtsanwaelte-js.de/"
+    },
+    "comentario": "Asistencia a víctimas - Infracciones"
+  },
+  {
+    "nombre": "ALFONSO LANDGRAF, Beatriz",
+    "especialidades": [
+      "Fiscal/Tributario",
+      "Inmobilario",
+      "Mercantil",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Leopoldstr. 87",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "089 / 389 897 0",
+      "email": "",
+      "web": ""
+    },
+    "comentario": "ALFONSO LANDGRAF, Beatriz"
+  },
+  {
+    "nombre": "BARCO-SCHULTZ, Susana",
+    "especialidades": [
+      "Familiar",
+      "Inmobilario"
+    ],
+    "direccion": {
+      "calle": "Reinhold-Frank-Str. 50",
+      "codigoPostal": "",
+      "localidad": "Karlsruhe"
+    },
+    "contacto": {
+      "telefono": "0049-721 9850680  0049-721 9850682",
+      "email": "",
+      "web": "www.barco-schultz.com"
+    },
+    "comentario": "BARCO-SCHULTZ, Susana"
+  },
+  {
+    "nombre": "BARIÉ, David",
+    "especialidades": [
+      "Familiar",
+      "Inmobilario",
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "Südbahnhofstr. 11",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "0049 5542 939393",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "BAYER, Wolfgang Dr. & Partner",
+    "especialidades": [
+      "Inmobilario",
+      "Internacional",
+      "Mercantil",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Gerokstr. 8",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "45909",
+      "email": "bayer@bayer-partner.com",
+      "web": "www.bayer-partner.com"
+    },
+    "comentario": "BAYER, Wolfgang Dr. & Partner"
+  },
+  {
+    "nombre": "BETTE, Julia",
+    "especialidades": [
+      "Inmobilario",
+      "Laboral",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "45909",
+      "email": "bette-brink@berlin.juropartner.de",
+      "web": "www.bette-brink.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "BLAUß, Chris",
+    "especialidades": [
+      "Bancario/Financiero",
+      "Extranjería",
+      "Inmobilario",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "Danneckerstraße 58",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "70182",
+      "email": "blauss@blaichundpartner.com",
+      "web": "www.blaichundpartner.com/blauss.html"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "BOMHARD, Roland Dr.",
+    "especialidades": [
+      "Inmobilario"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": "Düsseldorf"
+    },
+    "contacto": {
+      "telefono": "45909",
+      "email": "roland.bomhard@hoganlovells.com",
+      "web": "www.hoganlovells.com/Roland-Bomhard"
+    },
+    "comentario": "especialidad en temas de mercantil y tasas de hora bastante elevadas"
+  },
+  {
+    "nombre": "BUENO MARTÍN, Isabel",
+    "especialidades": [
+      "Civil",
+      "Fiscal/Tributario",
+      "Inmobilario",
+      "Internacional",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Sommerstr. 12",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "089 / 444 89 003",
+      "email": "bueno@kanzlei-bueno.de ; bueno@abogados-bueno.com; impuestos@abogados-bueno.com",
+      "web": ""
+    },
+    "comentario": "Riemerling bei München"
+  },
+  {
+    "nombre": "DE LA SIERRA M.,Carlos",
+    "especialidades": [
+      "Familiar",
+      "Inmobilario",
+      "Internacional",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Kurt Schumacher Str. 2",
+      "codigoPostal": "",
+      "localidad": "Bonn"
+    },
+    "contacto": {
+      "telefono": "53113",
+      "email": "",
+      "web": ""
+    },
+    "comentario": "DE LA SIERRA M.,Carlos"
+  },
+  {
+    "nombre": "DYLLONG, Martina",
+    "especialidades": [
+      "Civil",
+      "Inmobilario",
+      "Internacional",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "40212",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "DYLLONG, Martina",
+    "especialidades": [
+      "Civil",
+      "Inmobilario",
+      "Internacional",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Hagener Str. 231",
+      "codigoPostal": "",
+      "localidad": "Dortmund"
+    },
+    "contacto": {
+      "telefono": "44229",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "FAULL, Elmar Dr.",
+    "especialidades": [
+      "Extranjería",
+      "Fiscal/Tributario",
+      "Inmobilario"
+    ],
+    "direccion": {
+      "calle": "Kaulbachstr. 41",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "80539",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "FRUTH, Thomas",
+    "especialidades": [
+      "Extranjería",
+      "Familiar",
+      "Inmobilario",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "Karl Scharader Straße 6",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "10781",
+      "email": "anwaelte@b-recht.com",
+      "web": "www.b-recht.com"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "HIDALGO ALBERCA, Ana",
+    "especialidades": [
+      "Civil",
+      "Inmobilario",
+      "Internacional",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Bismarckstr. 2",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "089 / 387 99 602",
+      "email": "a.hidalgo@t-online.de",
+      "web": "www.kanzlei-hidalgo.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "HÖRSCH-DUSSLING, Maribel",
+    "especialidades": [
+      "Civil",
+      "Inmobilario",
+      "Laboral",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Hertichstr. 55",
+      "codigoPostal": "",
+      "localidad": "Leonberg"
+    },
+    "contacto": {
+      "telefono": "45901",
+      "email": "info@kanzlei-leonberg.de",
+      "web": "www.kanzlei-leonberg.de"
+    },
+    "comentario": "HÖRSCH-DUSSLING, Maribel"
+  },
+  {
+    "nombre": "KUGLER OSORIO, Roberto A.",
+    "especialidades": [
+      "Inmobilario",
+      "Internacional"
+    ],
+    "direccion": {
+      "calle": "Jägerstraße 32",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "10117",
+      "email": "rkugler@hoelyrauch.de",
+      "web": "www.hoelyrauch.de"
+    },
+    "comentario": "KUGLER OSORIO, Roberto A."
+  },
+  {
+    "nombre": "LANGA CEBAMANOS, José María",
+    "especialidades": [
+      "Familiar",
+      "Inmobilario",
+      "Mercantil",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Kaiserstraße 77",
+      "codigoPostal": "",
+      "localidad": "Reutlingen"
+    },
+    "contacto": {
+      "telefono": "45902",
+      "email": "info@abogado-langa.de",
+      "web": "www.abogado-langa.de"
+    },
+    "comentario": "La personas de contacto soy yo mismo, José Langa, abogado colegiado tanto en España como en Alemania"
+  },
+  {
+    "nombre": "MARTINEZ MOLINA, Belén",
+    "especialidades": [
+      "Civil",
+      "Inmobilario",
+      "Internacional",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "Olivaer Platz 15",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "10707",
+      "email": "martinez@bmpartner-ra.de",
+      "web": "www.bmpartner-ra.de"
+    },
+    "comentario": "MARTINEZ MOLINA, Belén"
+  },
+  {
+    "nombre": "MEINZER, Clemens",
+    "especialidades": [
+      "Inmobilario",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "Universitätsstr. 10",
+      "codigoPostal": "",
+      "localidad": "Freiburg"
+    },
+    "contacto": {
+      "telefono": "45894",
+      "email": "kanzlei@schurig-tilgener.com",
+      "web": "www.schurig-tilgener.com"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "ORDINAS ORDINAS, Joana Maria LL.M.",
+    "especialidades": [
+      "Fiscal/Tributario",
+      "Inmobilario",
+      "Laboral",
+      "Mercantil",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Augustenstrasse 10",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "4989559830",
+      "email": "Joana.Ordinas@kleeberg-legal.de",
+      "web": "http://www.kleeberg.de/Spanish-Latin-American-Desk.1122.0.html"
+    },
+    "comentario": "ORDINAS ORDINAS, Joana Maria LL.M."
+  },
+  {
+    "nombre": "PFISTERER, Jochen",
+    "especialidades": [
+      "Inmobilario",
+      "Mercantil",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Königstr. 58",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "0049-711 64560919 0049-711 64560920",
+      "email": "pfisterer@wild-pfisterer.de",
+      "web": ""
+    },
+    "comentario": "(También puede ejercer como abogado en España,"
+  },
+  {
+    "nombre": "SAN EMETERIO ROIZ, Rafael",
+    "especialidades": [
+      "Bancario/Financiero",
+      "Civil",
+      "Inmobilario",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Werastr. 73",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "0049-711 12393385  0049-711 12393386",
+      "email": "info@dsrae.de",
+      "web": "www.dsrae.de"
+    },
+    "comentario": "(También puede ejercer como abogado en España)"
+  },
+  {
+    "nombre": "Streifler & Kollegen Rechtsanwälte",
+    "especialidades": [
+      "Inmobilario",
+      "Internacional",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "10117",
+      "email": "",
+      "web": ""
+    },
+    "comentario": "Oranienburger Straβe 69"
+  },
+  {
+    "nombre": "VÁZQUEZ ALDAMA, Susana",
+    "especialidades": [
+      "Civil",
+      "Familiar",
+      "Inmobilario",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Keplerstr. 1",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "017610045193",
+      "email": "",
+      "web": ""
+    },
+    "comentario": "VÁZQUEZ ALDAMA, Susana"
+  },
+  {
+    "nombre": "VON SELLE, Claudia",
+    "especialidades": [
+      "Inmobilario",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "10707",
+      "email": "vonselle@berg-moll.com",
+      "web": "https://www.berg-moll.com/de/claudia-von-selle/"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "VOSS, Karl Martin",
+    "especialidades": [
+      "Civil",
+      "Familiar",
+      "Inmobilario",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "Poststraße 2",
+      "codigoPostal": "",
+      "localidad": "Heidelberg"
+    },
+    "contacto": {
+      "telefono": "69115",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "ARNELA GONZALEZ,  Juan José",
+    "especialidades": [
+      "Internacional",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "10117",
+      "email": "",
+      "web": ""
+    },
+    "comentario": "Oranienburger Straβe 69"
+  },
+  {
+    "nombre": "ARROYO, Mª Dolores",
+    "especialidades": [
+      "Civil",
+      "Familiar",
+      "Laboral",
+      "Penal",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Römerstrasse 16 a",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "45909",
+      "email": "office@arroyo-asociados.com",
+      "web": "www.arroyo-asociados.com"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "BAIER, Hannes",
+    "especialidades": [
+      "Civil",
+      "Laboral",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Luitpoldstrasse 15 B",
+      "codigoPostal": "",
+      "localidad": "Regensburg"
+    },
+    "contacto": {
+      "telefono": "45909",
+      "email": "ra@hannesbaier.com",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "BERLANDA, Frank",
+    "especialidades": [
+      "Fiscal/Tributario",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Tumringer Str. 211",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "45901",
+      "email": "Berlanda-Gröber@t-online.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "BILDT, Dominik",
+    "especialidades": [
+      "Familiar",
+      "Fiscal/Tributario",
+      "Mercantil",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Wittelsbacherstraße18",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "45909",
+      "email": "info@bildt-law.de",
+      "web": "www.bildt-law.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "BONORDEN, Christian",
+    "especialidades": [
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Schillerplatz 8",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "45898",
+      "email": "info@ra-bonorden.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "BURKERT, Markus",
+    "especialidades": [
+      "Civil",
+      "Extranjería",
+      "Familiar",
+      "Laboral",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Ebertystr. 42",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "45909",
+      "email": "mailto@kanzlei-burkert.de",
+      "web": "www.kanzlei-burkert.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "BURKERT, Markus",
+    "especialidades": [
+      "Familiar",
+      "Laboral",
+      "Penal",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Wilhelminenhofstr.91/92",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "12459",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "ESPINOZA DE LOS MONTEROS DE LA PARRA, Manuel",
+    "especialidades": [
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Brienner Strasse 9 / Amiraplat",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "80333",
+      "email": "espinoza@roxin.de / www.roxin.de",
+      "web": ""
+    },
+    "comentario": "ESPINOZA DE LOS MONTEROS DE LA PARRA, Manuel"
+  },
+  {
+    "nombre": "FINK, Wolfram Dr.",
+    "especialidades": [
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Erbprinzenstr. 1",
+      "codigoPostal": "",
+      "localidad": "Freiburg"
+    },
+    "contacto": {
+      "telefono": "0049 761 34582",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "GARCIA CEJAS, Jose Luis",
+    "especialidades": [
+      "Civil",
+      "Mercantil",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Universitätstr. 10",
+      "codigoPostal": "",
+      "localidad": "Freiburg"
+    },
+    "contacto": {
+      "telefono": "45891",
+      "email": "kanzlei@schurig-tilgener.com",
+      "web": "www.schurig-tilgener.com"
+    },
+    "comentario": "GARCIA CEJAS, Jose Luis"
+  },
+  {
+    "nombre": "GLÁSER, Josef",
+    "especialidades": [
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "45894",
+      "email": "j.glaeser@glaeser-rechtsanwalt.de",
+      "web": "www.glaeser-rechtanwalt.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "HAENEL, Rudy",
+    "especialidades": [
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": "Konstanz"
+    },
+    "contacto": {
+      "telefono": "45894",
+      "email": "kanzlei@ra-haenel.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "HEINZMANN, Hans-Peter",
+    "especialidades": [
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Cäsar-Fleischlen-Str. 15",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "0049- 711 611075  0049-711 618265",
+      "email": "",
+      "web": ""
+    },
+    "comentario": "HEINZMANN, Hans-Peter"
+  },
+  {
+    "nombre": "KALINSKI, Klaus",
+    "especialidades": [
+      "Administrativo",
+      "Civil",
+      "Familiar",
+      "Internacional",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "45895",
+      "email": "RA-Klaus.Kalinski@t-online.de",
+      "web": ""
+    },
+    "comentario": "nacido en Santander y hablante nativo."
+  },
+  {
+    "nombre": "KALINSKI, Klaus",
+    "especialidades": [
+      "Administrativo",
+      "Civil",
+      "Familiar",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "0049-6203 180112 0049-6203 1807121",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "KALINSKI, Klaus",
+    "especialidades": [
+      "Administrativo",
+      "Civil",
+      "Familiar",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "45901",
+      "email": "RA-Klaus.Kalinski@t-online.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "Kindermann & Bolle, Anwaltkanzlei",
+    "especialidades": [
+      "Laboral",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Zabelstraße 14",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "7545",
+      "email": "RAe_Kindermann-Boelle@t-online.de",
+      "web": "www.kiboel.de"
+    },
+    "comentario": "Kindermann & Bolle, Anwaltkanzlei"
+  },
+  {
+    "nombre": "L I E B. Rechtsanwälte",
+    "especialidades": [
+      "Civil",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Bucher Straße 21",
+      "codigoPostal": "",
+      "localidad": "Nürnberg"
+    },
+    "contacto": {
+      "telefono": "0911 / 21 79 09-0",
+      "email": "joerg.steinheimer@lieb-online.com",
+      "web": "www.lieb-online.com"
+    },
+    "comentario": "L I E B. Rechtsanwälte"
+  },
+  {
+    "nombre": "LUICKHARDT & CANO",
+    "especialidades": [
+      "Civil",
+      "Fiscal/Tributario",
+      "Mercantil",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Lindberghstr. 2",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "0049-7542 937982 0049-7542 937984",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "MENDE, Thomas",
+    "especialidades": [
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Marktplatz 5/2",
+      "codigoPostal": "",
+      "localidad": "Esslingen"
+    },
+    "contacto": {
+      "telefono": "0049 711 396993-0",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "MITTELBACH, Mirko H.-G.",
+    "especialidades": [
+      "Penal",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Griegstraße 40",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "14193",
+      "email": "",
+      "web": ""
+    },
+    "comentario": "MITTELBACH, Mirko H.-G."
+  },
+  {
+    "nombre": "MÜLLER, Peter",
+    "especialidades": [
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Werastr. 24",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "0049-711 237490  0049-711 2374920",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "NZP Nagy",
+    "especialidades": [
+      "Civil",
+      "Fiscal/Tributario",
+      "Internacional",
+      "Mercantil",
+      "Penal",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Theresienstrasse 9",
+      "codigoPostal": "",
+      "localidad": "Nürnberg"
+    },
+    "contacto": {
+      "telefono": "49 911 93 6009-0",
+      "email": "peter.taller@nzp.de",
+      "web": "www.nzp.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "REYHER, Friedrich",
+    "especialidades": [
+      "Civil",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Friedrich-Karl-Str. 4",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "68165",
+      "email": "kanzlei-reyher@t-online.de",
+      "web": "www.kanzlei-reyher.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "RIEKER, Christian",
+    "especialidades": [
+      "Extranjería",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Moltkestr. 40",
+      "codigoPostal": "",
+      "localidad": "Heilbronn"
+    },
+    "contacto": {
+      "telefono": "45894",
+      "email": "c.rieker@netburn.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "ROUBICEK, Helfried",
+    "especialidades": [
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Seestr. 23 c",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "18211",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "SANDER, Nico",
+    "especialidades": [
+      "Internacional",
+      "Laboral",
+      "Mercantil",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Sternstraße 102",
+      "codigoPostal": "",
+      "localidad": "Hamburg"
+    },
+    "contacto": {
+      "telefono": "040-414358766",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "SAUER, Richard",
+    "especialidades": [
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": "Freiburg"
+    },
+    "contacto": {
+      "telefono": "45894",
+      "email": "info@kanzlei-sms.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "SCHMOHL, Günther",
+    "especialidades": [
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Königstr. 180",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "0049-711 2258100",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "SCHUENEMANN, Sven",
+    "especialidades": [
+      "Familiar",
+      "Laboral",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Küstenstraße 8",
+      "codigoPostal": "",
+      "localidad": "Hannover"
+    },
+    "contacto": {
+      "telefono": "45910",
+      "email": "RASchuenemann@arcor.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "SECOLO, Stefania",
+    "especialidades": [
+      "Extranjería",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Chausseestr. 22",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "49(0)30/53609998",
+      "email": "Stefania.Secolo@secoloberlin.de",
+      "web": "www.secoloberlin.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "SEYDERHELM, Maximilian",
+    "especialidades": [
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Vangerowstraße 33",
+      "codigoPostal": "",
+      "localidad": "Heidelberg"
+    },
+    "contacto": {
+      "telefono": "45895",
+      "email": "Silvia Rau +4915129663394 rau@rae-sfc.de Dr:Maximilian Syderhelm +491743915681 seyderhelm@rae-sfc.de",
+      "web": "www.rae-sfc.de/seyderhelm/"
+    },
+    "comentario": "Silvia Rau und Dr.Maximilian"
+  },
+  {
+    "nombre": "SIMNACHER, Fred",
+    "especialidades": [
+      "Civil",
+      "Laboral",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Residenzstr. 25",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "089 / 255 498 0",
+      "email": "",
+      "web": "www.aldebert-kollegen.eu"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "STUDT, Dorit",
+    "especialidades": [
+      "Extranjería",
+      "Familiar",
+      "Internacional",
+      "Penal",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": "Hamburg"
+    },
+    "contacto": {
+      "telefono": "040-210912737",
+      "email": "kontakt@anwaltskanzlei-studt.de",
+      "web": "www.anwaltskanzlei-studt.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "STUDT, Dorit",
+    "especialidades": [
+      "Extranjería",
+      "Familiar",
+      "Internacional",
+      "Penal",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "04141-659 39 38",
+      "email": "kontakt@anwaltskanzlei-studt.de",
+      "web": "www.anwaltskanzlei-studt.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "WEBER, Christina M.",
+    "especialidades": [
+      "Laboral",
+      "Mercantil",
+      "Penal"
+    ],
+    "direccion": {
+      "calle": "Porschestr. 6",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "0049-711 55342640  0049-175 9419674",
+      "email": "info@christinamweber-kanzlei.de",
+      "web": "www.christinamweber-kanzlei.de"
+    },
+    "comentario": "Fellbach (bei Stuttgart)"
+  },
+  {
+    "nombre": "LÉRIA ALIX, Segundo",
+    "especialidades": [
+      "Civil",
+      "Extranjería",
+      "Internacional"
+    ],
+    "direccion": {
+      "calle": "Dircksenstr. 52",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "030 / 23 98 78 44",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "ALZUGARAY MÉNDEZ, Helga",
+    "especialidades": [
+      "Fiscal/Tributario"
+    ],
+    "direccion": {
+      "calle": "Plochinger Str. 58",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "45894",
+      "email": "info@anwande-bracher.de",
+      "web": ""
+    },
+    "comentario": "ALZUGARAY MÉNDEZ, Helga"
+  },
+  {
+    "nombre": "Arzt . Lopez & Col., Dr.",
+    "especialidades": [
+      "Familiar",
+      "Mercantil",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Koblenzer Straße 80",
+      "codigoPostal": "",
+      "localidad": "Koblenz"
+    },
+    "contacto": {
+      "telefono": "56073",
+      "email": "",
+      "web": "www.artzlopez.com"
+    },
+    "comentario": "Arzt . Lopez & Col., Dr."
+  },
+  {
+    "nombre": "AUREN-GALCERAN, Eulalia",
+    "especialidades": [
+      "Fiscal/Tributario",
+      "Laboral",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "Römerstrasse 75",
+      "codigoPostal": "",
+      "localidad": "Leonberg"
+    },
+    "contacto": {
+      "telefono": "45901",
+      "email": "eulalia.galceran@str-auren.de",
+      "web": "https://auren.com/de/en/"
+    },
+    "comentario": "contabilidad, fiscalidad, auditoría y consultoria"
+  },
+  {
+    "nombre": "AUREN-GALCERAN, Eulalia",
+    "especialidades": [
+      "Fiscal/Tributario",
+      "Laboral",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "Wilhelm-Maybach-Strasse 11",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "0049-71199786835  0049-1606507845",
+      "email": "",
+      "web": ""
+    },
+    "comentario": "Asesoramiento fiscal y legal, contabilidad, fiscalidad, auditoría y consultoria"
+  },
+  {
+    "nombre": "AUREN-GALCERÁN, Eulalia",
+    "especialidades": [
+      "Fiscal/Tributario",
+      "Laboral",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "Rotebühlplatz 23",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "45903",
+      "email": "eulalia.galceran@str-auren.de",
+      "web": "https://auren.com/de/en/"
+    },
+    "comentario": "Asesoramiento fiscal y legal, contabilidad, fiscalidad, auditoría y consultoría."
+  },
+  {
+    "nombre": "BADT, Michael",
+    "especialidades": [
+      "Civil",
+      "Familiar",
+      "Fiscal/Tributario",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Oettingenstr.25",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "45909",
+      "email": "michael.badt@t-online.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "BASCÓN-RAUSCHER, Carmen",
+    "especialidades": [
+      "Civil",
+      "Internacional",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "95445",
+      "email": "",
+      "web": ""
+    },
+    "comentario": "BASCÓN-RAUSCHER, Carmen"
+  },
+  {
+    "nombre": "BAYER, Wolfgang, Dr.",
+    "especialidades": [
+      "Bancario/Financiero",
+      "Internacional",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "Gerokstr. 8",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "45903",
+      "email": "bayer@omnilexlawfirm.com   bayer@bayer-partner.com",
+      "web": "www.omnilex.info"
+    },
+    "comentario": "Fusiones y adquisiciones internacionales, Joint Ventures Internacionales"
+  },
+  {
+    "nombre": "BEDENK, Achim",
+    "especialidades": [
+      "Administrativo",
+      "Civil",
+      "Familiar"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "45909",
+      "email": "bedenk@bedenk-heun.de",
+      "web": "www.bedenk-heun.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "BELTRÁN-DAUDÉN, Ana",
+    "especialidades": [
+      "Fiscal/Tributario"
+    ],
+    "direccion": {
+      "calle": "Neumarkterstr. 80",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "45915",
+      "email": "beltran@europe-tax.de",
+      "web": "www.europe-tax.de"
+    },
+    "comentario": "La persona que atiende en nuestro despacho en español soy yo, Ana Beltrán-Daudén,"
+  },
+  {
+    "nombre": "BERG, Alexander",
+    "especialidades": [
+      "Familiar"
+    ],
+    "direccion": {
+      "calle": "Wilhelmstr. 14",
+      "codigoPostal": "",
+      "localidad": "Heilbronn"
+    },
+    "contacto": {
+      "telefono": "45894",
+      "email": "rat@anwalt-berg.de",
+      "web": "www.anwalt-berg.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "BITZER, Gerald E.",
+    "especialidades": [
+      "Civil",
+      "Internacional",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "Dahlienstr. 19",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "80935",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "BITZER, Gerald E.",
+    "especialidades": [
+      "Internacional",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "Dahlienstr. 19",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "089 / 3134154",
+      "email": "ra.gerald.bitzer@gmail.com",
+      "web": "www.rabitzer.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "BLUMEL, Detlev",
+    "especialidades": [
+      "Familiar",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "Sedan Str. 40",
+      "codigoPostal": "",
+      "localidad": "Hamm"
+    },
+    "contacto": {
+      "telefono": "59065",
+      "email": "Detlev.bluemel@t-online.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "BORRAK, Thorsten",
+    "especialidades": [],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "0049 7822 3338",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "BRENNINGER, Konrad, Dr.",
+    "especialidades": [
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "Margaretenstr. 15",
+      "codigoPostal": "",
+      "localidad": "Regensburg"
+    },
+    "contacto": {
+      "telefono": "45909",
+      "email": "brenninger@bwr-partner.de",
+      "web": "www.kwb-recht.de"
+    },
+    "comentario": "BRENNINGER, Konrad, Dr."
+  },
+  {
+    "nombre": "BRUCKLACHER, Lieselotte Dr",
+    "especialidades": [
+      "Administrativo",
+      "Familiar"
+    ],
+    "direccion": {
+      "calle": "Kastellstr. 26",
+      "codigoPostal": "",
+      "localidad": "Karlsruhe"
+    },
+    "contacto": {
+      "telefono": "0049-721492597 0049-721 495839",
+      "email": "",
+      "web": ""
+    },
+    "comentario": "BRUCKLACHER, Lieselotte Dr"
+  },
+  {
+    "nombre": "BURRUEL LEAÑOS, Leopoldo",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Gontermannstraße 62",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "45909",
+      "email": "polo.burruel@gmail.com",
+      "web": ""
+    },
+    "comentario": "Especializado en derecho Mexicano - Número de registro: 7525 G 1 KG (11/19)"
+  },
+  {
+    "nombre": "BÜTTNER, Hermann",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Ernst-Barlach-Str. 29",
+      "codigoPostal": "",
+      "localidad": "Karlsruhe"
+    },
+    "contacto": {
+      "telefono": "0049-721 9434121 0049-721 9434142",
+      "email": "",
+      "web": "www.buettner-baukelmann.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "CASCANTE, Christian",
+    "especialidades": [
+      "Extranjería",
+      "Internacional"
+    ],
+    "direccion": {
+      "calle": "Lautenschlagerstr. 21",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "45903",
+      "email": "Christian.cascante@gleisslutz.com",
+      "web": ""
+    },
+    "comentario": "gleisslutz.com/en/lawyer/dr-christian-cascante.html"
+  },
+  {
+    "nombre": "DÍEZ, Mónica",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Sommerstr. 12",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "089 / 444 89 003",
+      "email": "bueno@kanzlei-bueno.de ; bueno@abogados-bueno.com; impuestos@abogados-bueno.com",
+      "web": ""
+    },
+    "comentario": "Riemerling bei München"
+  },
+  {
+    "nombre": "DISCHLER, Matthias",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Yorckstr. 7",
+      "codigoPostal": "",
+      "localidad": "Karlsruhe"
+    },
+    "contacto": {
+      "telefono": "0049-721 597200 0049-721 5972090",
+      "email": "im.dischler@t-online.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "DITTMAR, Volker",
+    "especialidades": [
+      "Civil",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "45909",
+      "email": "volkerdittmer@web.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "DURAN MUÑOZ, Antonio",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Grelckstraße 36",
+      "codigoPostal": "",
+      "localidad": "Hamburg"
+    },
+    "contacto": {
+      "telefono": "22529",
+      "email": "info@raochsendorf.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "EISENMENGER & MARSCH, Dr.",
+    "especialidades": [
+      "Civil",
+      "Familiar",
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "Schenkstr. 69",
+      "codigoPostal": "",
+      "localidad": "Erlangen"
+    },
+    "contacto": {
+      "telefono": "45909",
+      "email": "info@ra-erlangen.de",
+      "web": "www.ra-erlangen.de"
+    },
+    "comentario": "EISENMENGER & MARSCH, Dr."
+  },
+  {
+    "nombre": "ELSDOERFER, Kerstin",
+    "especialidades": [
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Gautingerstr. 23",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "089 / 89 949 700",
+      "email": "info@kanzlei-kerstin-elsdoerfer.com",
+      "web": "www.kanzlei-kerstin-elsdoerfer.com"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "ERLEWEIN, Norbert",
+    "especialidades": [
+      "Fiscal/Tributario"
+    ],
+    "direccion": {
+      "calle": "Moltkestr. 40",
+      "codigoPostal": "",
+      "localidad": "Heilbronn"
+    },
+    "contacto": {
+      "telefono": "45894",
+      "email": "anwalt@kanzlei-daw.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "Estenfeld & Kollegen",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Lotzbeckstr. 32",
+      "codigoPostal": "",
+      "localidad": "Lahr"
+    },
+    "contacto": {
+      "telefono": "0049-7821 271060 0049-15112741060",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "FELLER ,Sabine",
+    "especialidades": [
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "Leonrodstr. 61",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "45909",
+      "email": "info@kanzleifeller.de",
+      "web": "www.kanleifeller.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "FERNANDEZ DE CASTILLEJO Isabel",
+    "especialidades": [
+      "Extranjería",
+      "Familiar",
+      "Internacional",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Friedrichstraße 171",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "10117",
+      "email": "",
+      "web": "https://transandlaw.com/"
+    },
+    "comentario": "FERNANDEZ DE CASTILLEJO Isabel"
+  },
+  {
+    "nombre": "FERNANDEZ DE CASTILLEJO, Isabel",
+    "especialidades": [
+      "Extranjería",
+      "Familiar",
+      "Internacional",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Paul-Gruner-Straße 61",
+      "codigoPostal": "",
+      "localidad": "Leipzig"
+    },
+    "contacto": {
+      "telefono": "0341-99393627",
+      "email": "kanzlei@transandlaw.de",
+      "web": ""
+    },
+    "comentario": "FERNANDEZ DE CASTILLEJO, Isabel"
+  },
+  {
+    "nombre": "FERNANDEZ DE CASTILLEJO, Isabel",
+    "especialidades": [
+      "Extranjería",
+      "Familiar",
+      "Internacional",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Hirschstr. 16",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "76530",
+      "email": "",
+      "web": "https://transandlaw.com"
+    },
+    "comentario": "FERNANDEZ DE CASTILLEJO, Isabel"
+  },
+  {
+    "nombre": "FICHTER, Aglaja",
+    "especialidades": [
+      "Familiar"
+    ],
+    "direccion": {
+      "calle": "Neugrabenweg 5-7",
+      "codigoPostal": "",
+      "localidad": "Saarbrücken"
+    },
+    "contacto": {
+      "telefono": "0681-9383 6858",
+      "email": "fichter@rechts-anwalt.org",
+      "web": "www.rechts-anwalt.org"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "FISCHER, Alexander",
+    "especialidades": [
+      "Civil",
+      "Laboral",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Hauptstr. 78 B",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "45903",
+      "email": "info@stuttgart-anwaltskanzlei.com",
+      "web": ""
+    },
+    "comentario": "stuttgart-anwaltskanzlei.com/alexander-fischer.html"
+  },
+  {
+    "nombre": "FORSTER, Richard",
+    "especialidades": [
+      "Fiscal/Tributario"
+    ],
+    "direccion": {
+      "calle": "Max-Reger-Str. 12",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "79104",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "FRANKE, Marcus",
+    "especialidades": [
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "Wankelstr. 14",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "45903",
+      "email": "franke@bisle.eu",
+      "web": "www.bisle.eu"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "GAßMANN, Gerald",
+    "especialidades": [
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "Rotebühlplatz 20 A",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "0049-711 221133 0049-711 2265137",
+      "email": "",
+      "web": "www.gassmann-seidel.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "GAUTO, Miguel Angel Dr.",
+    "especialidades": [
+      "Extranjería"
+    ],
+    "direccion": {
+      "calle": "Sachsenkamstr. 6",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "089 / 769 30 76 -49 179 5174893",
+      "email": "miguel.gauto@t-online.de",
+      "web": ""
+    },
+    "comentario": "GAUTO, Miguel Angel Dr."
+  },
+  {
+    "nombre": "GERHARZ, Reinhard",
+    "especialidades": [
+      "Civil",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Merlostr. 2",
+      "codigoPostal": "",
+      "localidad": "Köln"
+    },
+    "contacto": {
+      "telefono": "49 221 7 20 06 94",
+      "email": "",
+      "web": "www.rechtsanwalt-gerharz.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "GOMEZ DE LARRAIN, Eduardo",
+    "especialidades": [
+      "Extranjería",
+      "Mercantil",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Klövensteenweg 59",
+      "codigoPostal": "",
+      "localidad": "Hamburg"
+    },
+    "contacto": {
+      "telefono": "22559",
+      "email": "eduardo.larrain@pgdl.de",
+      "web": "www.pgdl.de/es/"
+    },
+    "comentario": "GOMEZ DE LARRAIN, Eduardo"
+  },
+  {
+    "nombre": "GÓMEZ RODRÍGUEZ, Rafael Eur. RA",
+    "especialidades": [
+      "Civil",
+      "Familiar",
+      "Fiscal/Tributario",
+      "Laboral",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Belgradstr. 27",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "49 178 876 9824",
+      "email": "eur.ra.gomez@gmail.com",
+      "web": "www.traduciraleman.com/services/spanish-german-desk/"
+    },
+    "comentario": "GÓMEZ RODRÍGUEZ, Rafael Eur. RA"
+  },
+  {
+    "nombre": "GRACÍA CALVO, Daniel",
+    "especialidades": [
+      "Fiscal/Tributario",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "Kaiser-Joseph-Str. 274",
+      "codigoPostal": "",
+      "localidad": "Freiburg"
+    },
+    "contacto": {
+      "telefono": "0049 761 1379630",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "GRUND, Jochen Dr.",
+    "especialidades": [
+      "Civil"
+    ],
+    "direccion": {
+      "calle": "Goethestr. 61",
+      "codigoPostal": "",
+      "localidad": "Freiburg"
+    },
+    "contacto": {
+      "telefono": "45895",
+      "email": "info@ra-grund.de",
+      "web": "www.ra-grund.de"
+    },
+    "comentario": "Eine besondere Listung bei Ihnen brauchen wir nicht, da wir sowieso ausgelastet sind"
+  },
+  {
+    "nombre": "GRUND, Jochen Dr.",
+    "especialidades": [
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "Goethestr. 61",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "79100",
+      "email": "j.grund@ra-grund.de",
+      "web": "www.ra-grund.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "Gülpen & Garay",
+    "especialidades": [
+      "Civil"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "10707",
+      "email": "berlin@guelpen-garay.de",
+      "web": "www.guelpen-garay.com"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "HEBEL, Christofer",
+    "especialidades": [
+      "Bancario/Financiero"
+    ],
+    "direccion": {
+      "calle": "Urbanstr. 42",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "45904",
+      "email": "mail@christofer-hebel.de",
+      "web": "www.christofer-hebel.de"
+    },
+    "comentario": "no acepto nuevos clientes porque ya tengo 65 años y no quiero trabajar tanto"
+  },
+  {
+    "nombre": "HEINZEMANN, Dirk",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Dimmlerstr. 10",
+      "codigoPostal": "",
+      "localidad": "Freiburg"
+    },
+    "contacto": {
+      "telefono": "45894",
+      "email": "kontakt@anwalt-heinzemann.de",
+      "web": ""
+    },
+    "comentario": "Abwesenheitszeiten vom 21. August bis 5. September."
+  },
+  {
+    "nombre": "HERZOG, Thomas",
+    "especialidades": [
+      "Familiar"
+    ],
+    "direccion": {
+      "calle": "Pleikartsförsterstr. 116",
+      "codigoPostal": "",
+      "localidad": "Heidelberg"
+    },
+    "contacto": {
+      "telefono": "45894",
+      "email": "sekretariat@anwalt-hd.de",
+      "web": "www.anwalt-hd.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "HESSE, Thomas",
+    "especialidades": [
+      "Familiar"
+    ],
+    "direccion": {
+      "calle": "Uferstr. 30",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "0049 7171 63030",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "HILBER, Walter",
+    "especialidades": [
+      "Fiscal/Tributario"
+    ],
+    "direccion": {
+      "calle": "Lameystr. 10",
+      "codigoPostal": "",
+      "localidad": "Pforzheim"
+    },
+    "contacto": {
+      "telefono": "45901",
+      "email": "info@hsdp-consult.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "HOFMANN, Götz",
+    "especialidades": [
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "Hilgartstr. 13",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "66482",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "HOLDEREGGER, Leif",
+    "especialidades": [
+      "Laboral",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": "Esslingen"
+    },
+    "contacto": {
+      "telefono": "0049 711 3969450",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "J.C. Ticona-Cuba und Partner",
+    "especialidades": [
+      "Extranjería",
+      "Familiar",
+      "Internacional",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "20095",
+      "email": "kanzlei@ticona-cuba.de",
+      "web": "www.ticona-cuba.de"
+    },
+    "comentario": "J.C. Ticona-Cuba und Partner"
+  },
+  {
+    "nombre": "J.C. Ticona-Cuba und Partner",
+    "especialidades": [
+      "Extranjería",
+      "Familiar",
+      "Internacional",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": "Hamburg"
+    },
+    "contacto": {
+      "telefono": "20095",
+      "email": "kanzlei@ticona-cuba.de",
+      "web": "www.ticona-cuba.de"
+    },
+    "comentario": "J.C. Ticona-Cuba und Partner"
+  },
+  {
+    "nombre": "JABLONSKI, Mathias",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Schillerstr. 19",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "45901",
+      "email": "law.m.jablonski@gmail.com",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "JABLONSKI, Mathias",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Habsburgerstr. 41",
+      "codigoPostal": "",
+      "localidad": "Freiburg"
+    },
+    "contacto": {
+      "telefono": "0049-761 216096990",
+      "email": "law.m.jablonski@gmail.com",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "JACOBY, Julius",
+    "especialidades": [
+      "Civil",
+      "Laboral",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "80102",
+      "email": "gothjacoby@datevnet.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "KAISER, Wolfgang",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Urbanstr. 120",
+      "codigoPostal": "",
+      "localidad": "Esslingen"
+    },
+    "contacto": {
+      "telefono": "0049 711 3169099",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "KLAFFKE, Sylvia",
+    "especialidades": [
+      "Familiar"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "20099",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "Kleeberg Rechtsanwaltsgesellschaft mbH",
+    "especialidades": [
+      "Civil",
+      "Laboral",
+      "Mercantil",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Augustenstraße 10",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "49(0)89-55983-0",
+      "email": "katharina.moenius@crowe-kleeberg.de",
+      "web": "http://www.kleeberg.de/Spanish-Latin-American-Desk.1122.0.html"
+    },
+    "comentario": "Kleeberg Rechtsanwaltsgesellschaft mbH"
+  },
+  {
+    "nombre": "KORNMACHER, Stefan Dr. Jur.",
+    "especialidades": [
+      "Familiar",
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "Faulstr. 12- 8 / Kehdenstr. 18-12",
+      "codigoPostal": "",
+      "localidad": "Kiel"
+    },
+    "contacto": {
+      "telefono": "24103",
+      "email": "DR.KORNMACHER@DRES-RUGE.DE",
+      "web": ""
+    },
+    "comentario": "KORNMACHER, Stefan Dr. Jur."
+  },
+  {
+    "nombre": "KRAMPE, Ulrich",
+    "especialidades": [
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "14050",
+      "email": "ulrich.krampe@gmx.net",
+      "web": "www.ra-krampe.de"
+    },
+    "comentario": "(030) 211 26 13 / -18"
+  },
+  {
+    "nombre": "KRAUSE, Ringo",
+    "especialidades": [
+      "Civil",
+      "Extranjería",
+      "Familiar"
+    ],
+    "direccion": {
+      "calle": "Giesebrechstr. 10",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "49 30 2234 6698",
+      "email": "ra@mein-urheberrecht.de",
+      "web": "www.ringo-krause.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "KUKK, Alexander Dr",
+    "especialidades": [
+      "Administrativo"
+    ],
+    "direccion": {
+      "calle": "Möhringer Landastr. 5",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "45903",
+      "email": "info@quaas-partner.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "KUMMER, Joachim Dr.",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Bodelschwingstr. 8",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "0049 7243 15929",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "LAGIER, Joaquin",
+    "especialidades": [
+      "Civil",
+      "Familiar",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "Nymphenburgerstrasse 70",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "80335",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "LAMERS, Sophia",
+    "especialidades": [
+      "Civil",
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "Kardinal-Faulhaber-Str.10",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "4989290719-24",
+      "email": "dlipecka@deanna-patent.com",
+      "web": "www.deanna-patent.com"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "LAMERS, Sophia",
+    "especialidades": [
+      "Internacional",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "49 89 290719-20",
+      "email": "s.lamers@rae-weiss.de",
+      "web": "https://www.rae-weiss.de/team/sophia-lamers/"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "LINKE, Norbert",
+    "especialidades": [
+      "Familiar"
+    ],
+    "direccion": {
+      "calle": "Lohnerhofstr. 9",
+      "codigoPostal": "",
+      "localidad": "Konstanz"
+    },
+    "contacto": {
+      "telefono": "45894",
+      "email": "info@kanzlei-linke.de",
+      "web": "www.kanzlei-linke.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "MARTICORENA GARCIA, Susanne",
+    "especialidades": [
+      "Familiar",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Bahnhofstraße 79-81",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "03322 - 425 60 20",
+      "email": "kanzlei@wendelmuth.net",
+      "web": ""
+    },
+    "comentario": "MARTICORENA GARCIA, Susanne"
+  },
+  {
+    "nombre": "MERCADAL, Marcel",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Breitscheidstr. 10 Bosch-Areal",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "0049-711 32779744",
+      "email": "m.mercadal@bplusb.de",
+      "web": "www.bplusb.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "MUNZ, Christoph Dr.",
+    "especialidades": [
+      "Laboral",
+      "Mercantil",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Gustav-Adolf-Str. 6 b",
+      "codigoPostal": "",
+      "localidad": "Dresden"
+    },
+    "contacto": {
+      "telefono": "0351) 46 90 6 - 0 / - 29",
+      "email": "dresden@munz-anwaelte.de",
+      "web": "www.munz.anwaelte.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "NAAK, Thomas Dr.",
+    "especialidades": [
+      "Extranjería",
+      "Fiscal/Tributario",
+      "Internacional",
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": "Düsseldorf"
+    },
+    "contacto": {
+      "telefono": "40237",
+      "email": "info@nehm-coll.de",
+      "web": "www.nehm-coll.de"
+    },
+    "comentario": "Grafenberger Allee 277-287"
+  },
+  {
+    "nombre": "NIEDERHAUSEN, Heinz",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Bertoldstr. 49",
+      "codigoPostal": "",
+      "localidad": "Freiburg"
+    },
+    "contacto": {
+      "telefono": "45894",
+      "email": "nmf.fr@t-online.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "Palma & Palma Abogados",
+    "especialidades": [
+      "Civil",
+      "Familiar",
+      "Mercantil",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Joachim Friedrich Str. 20",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "10711",
+      "email": "",
+      "web": ""
+    },
+    "comentario": "Palma & Palma Abogados"
+  },
+  {
+    "nombre": "POVEDA GUILLÉN,Elisabet",
+    "especialidades": [
+      "Extranjería",
+      "Familiar",
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "Sandweg 9",
+      "codigoPostal": "",
+      "localidad": "Frankfurt"
+    },
+    "contacto": {
+      "telefono": "60487",
+      "email": "",
+      "web": ""
+    },
+    "comentario": "POVEDA GUILLÉN,Elisabet"
+  },
+  {
+    "nombre": "Rechtsanwältin Anke Im Masche",
+    "especialidades": [
+      "Familiar",
+      "Internacional",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "20457",
+      "email": "",
+      "web": ""
+    },
+    "comentario": "Rechtsanwältin Anke Im Masche"
+  },
+  {
+    "nombre": "Rechtsanwaltkanzlei Dr. Chrysant Fischer",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Bahnhofstraße 32a",
+      "codigoPostal": "",
+      "localidad": "Passau"
+    },
+    "contacto": {
+      "telefono": "0851 - 37 93 21 0",
+      "email": "info@rechtsanwaelte-passau.de",
+      "web": ""
+    },
+    "comentario": "Rechtsanwaltkanzlei Dr. Chrysant Fischer"
+  },
+  {
+    "nombre": "REISS & COLL.",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Erbprinzenstr. 29",
+      "codigoPostal": "",
+      "localidad": "Karlsruhe"
+    },
+    "contacto": {
+      "telefono": "45894",
+      "email": "reiss@kanzlei-reiss.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "REUFELS, Martin",
+    "especialidades": [
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "Magnusstr. 13",
+      "codigoPostal": "",
+      "localidad": "Köln"
+    },
+    "contacto": {
+      "telefono": "49-221-20520",
+      "email": "m.reufels@heuking.de",
+      "web": "www.heuking.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "REVILLA WAGNER, Armando",
+    "especialidades": [
+      "Civil",
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "Herzberger Landstr. 60",
+      "codigoPostal": "",
+      "localidad": "Göttingen"
+    },
+    "contacto": {
+      "telefono": "0049 (551) 6337 22 02",
+      "email": "kanzlei@rohrmann-revilla.de",
+      "web": "https://www.rohrmann-revilla.de"
+    },
+    "comentario": "REVILLA WAGNER, Armando"
+  },
+  {
+    "nombre": "RUBIO VADILLO, David",
+    "especialidades": [
+      "Civil",
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "Danneckerstr. 58",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "0049-711 24444115",
+      "email": "info@blaichundpartner.com",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "SALTO, Eliana",
+    "especialidades": [
+      "Extranjería"
+    ],
+    "direccion": {
+      "calle": "Wöhlertstr. 3",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "0162 8814619",
+      "email": "info@kanzlei-salto-berlin.de",
+      "web": "https://kanzlei-salto-berlin.de/es/"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "SCHAUWECKER, Harro",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Waiblinger Str. 11",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "45908",
+      "email": "webmaster@harroschauwecker.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "SCHEINER, Bengt",
+    "especialidades": [
+      "Bancario/Financiero",
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "55116",
+      "email": "",
+      "web": "www.bwb-law.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "SCHENNEN, Claire",
+    "especialidades": [
+      "Administrativo"
+    ],
+    "direccion": {
+      "calle": "Eberswalder Str. 26",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "45908",
+      "email": "info@schennen-recht.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "SCHLAGENHAUF, Petra Isabel",
+    "especialidades": [
+      "Civil",
+      "Extranjería"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "10555",
+      "email": "",
+      "web": ""
+    },
+    "comentario": "SCHLAGENHAUF, Petra Isabel"
+  },
+  {
+    "nombre": "SCHMID, Philipp",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Gerwigstr.4",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "0049-7222 403630  0049-7222 403640",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "SEBASTIAN MÜLLER DE VRIES, Katia",
+    "especialidades": [
+      "Familiar",
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "Oranienplatz 2",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "10999",
+      "email": "",
+      "web": "www.koepfrichter.de"
+    },
+    "comentario": "SEBASTIAN MÜLLER DE VRIES, Katia"
+  },
+  {
+    "nombre": "SPERSCHNEIDER, Tom",
+    "especialidades": [
+      "Bancario/Financiero",
+      "Fiscal/Tributario"
+    ],
+    "direccion": {
+      "calle": "Bornstr. 14",
+      "codigoPostal": "",
+      "localidad": "Hamburg"
+    },
+    "contacto": {
+      "telefono": "040-8787899-30",
+      "email": "sperschneider@ksw-partner.com",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "SPIEGEL, Ingrid – HAUBER",
+    "especialidades": [
+      "Civil",
+      "Familiar",
+      "Laboral",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Karl-Theodor-Strasse 77",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "089 / 272 75 674 -0178 5477787",
+      "email": "ra_sh@icloud.com",
+      "web": "www.ra-spiegel-hauber.de"
+    },
+    "comentario": "SPIEGEL, Ingrid – HAUBER"
+  },
+  {
+    "nombre": "STEINACKER, Birgit",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Olgastr. 53",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "0049-71124839330  0049-71124839340",
+      "email": "info@kanzlei-steinacker.de",
+      "web": "www.kanzlei-steinacker.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "STENGER, Ralf",
+    "especialidades": [
+      "Bancario/Financiero"
+    ],
+    "direccion": {
+      "calle": "Ludwigstrasse 8",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "089 244421186",
+      "email": "ralf.stenger@ashurst.com",
+      "web": "www.ashurst.com"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "TETZELI VON ROSADOR, Miguel",
+    "especialidades": [
+      "Familiar",
+      "Fiscal/Tributario",
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": "Berlin"
+    },
+    "contacto": {
+      "telefono": "0049 (30) 711 05 81",
+      "email": "mail@rosador.de",
+      "web": "https://www.rosador.de"
+    },
+    "comentario": "TETZELI VON ROSADOR, Miguel"
+  },
+  {
+    "nombre": "THEISSEN, Wolfgang",
+    "especialidades": [
+      "Familiar"
+    ],
+    "direccion": {
+      "calle": "Akademiestr. 24",
+      "codigoPostal": "",
+      "localidad": "Karlsruhe"
+    },
+    "contacto": {
+      "telefono": "45894",
+      "email": "kanzlei.theissen@gmx.de",
+      "web": "www.rechtsanwalt-theissen.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "VERA MARTINEZ, Pedro;  MLB, LL.M.",
+    "especialidades": [
+      "Bancario/Financiero",
+      "Internacional",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "Winterhuder Weg 94",
+      "codigoPostal": "",
+      "localidad": "Hamburg"
+    },
+    "contacto": {
+      "telefono": "49 176 20557503",
+      "email": "pedro.vera@outlook.com",
+      "web": "www.orbisnord.com/es"
+    },
+    "comentario": "VERA MARTINEZ, Pedro;  MLB, LL.M."
+  },
+  {
+    "nombre": "VILLATE, Marta  Y SCHOENITZ",
+    "especialidades": [
+      "Civil",
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "Titurelstr. 2",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "089 / 32404315 -  0176 / 400 11 985",
+      "email": "marta@villateyschoenitz.de",
+      "web": "www.villateyschoenitz.de"
+    },
+    "comentario": "VILLATE, Marta  Y SCHOENITZ"
+  },
+  {
+    "nombre": "VILLENA, Rafael y Sheffler",
+    "especialidades": [
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "Lehmweg 17",
+      "codigoPostal": "",
+      "localidad": "Hamburg"
+    },
+    "contacto": {
+      "telefono": "20251",
+      "email": "rafael.villena@wzr-legal.com",
+      "web": ""
+    },
+    "comentario": "VILLENA, Rafael y Sheffler"
+  },
+  {
+    "nombre": "VÖLKER, Alexander",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Kaiserstr. 55",
+      "codigoPostal": "",
+      "localidad": "Reutlingen"
+    },
+    "contacto": {
+      "telefono": "45901",
+      "email": "kollegium@VoelkleRecht.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "VON SCHLABRENDORFF, Fabian",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Mainzer Landstraße 46",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "60325",
+      "email": "fabian.schlabrendorff@cliffordchance.com",
+      "web": "www.cliffordchance.com"
+    },
+    "comentario": "VON SCHLABRENDORFF, Fabian"
+  },
+  {
+    "nombre": "VOSS, Karl-Martin",
+    "especialidades": [
+      "Familiar",
+      "Internacional",
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "Poststr. 2",
+      "codigoPostal": "",
+      "localidad": "Heidelberg"
+    },
+    "contacto": {
+      "telefono": "45896",
+      "email": "voss@bau-coll.de",
+      "web": "www.rechtsanwaltvoss.de"
+    },
+    "comentario": "El habla español. sus secretarias no. Pedir directamente por el. Hace 20 años en el rubro"
+  },
+  {
+    "nombre": "WACHENHEIM, Otmar",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Birkenweg 12",
+      "codigoPostal": "",
+      "localidad": "Lahr"
+    },
+    "contacto": {
+      "telefono": "45894",
+      "email": "mail@ow-law.com",
+      "web": "www.ow-law.com"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "WAGENER und DI PACE",
+    "especialidades": [
+      "Civil",
+      "Familiar"
+    ],
+    "direccion": {
+      "calle": "Perusastr. 1",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "089/242267-0",
+      "email": "wagener@pw-rechtsanwaelte.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "WEIGERT, Edmund , BITZER, Johannes, Dr.",
+    "especialidades": [
+      "Fiscal/Tributario",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Seidlstr. 30",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "55 17 07 0",
+      "email": "eweigert@dr-langenmayr.de",
+      "web": "www.dr-langenmayr.de"
+    },
+    "comentario": "WEIGERT, Edmund , BITZER, Johannes, Dr."
+  },
+  {
+    "nombre": "WERNER, Erk Carl",
+    "especialidades": [
+      "Familiar"
+    ],
+    "direccion": {
+      "calle": "Kaiserwilhelmstraße 89",
+      "codigoPostal": "",
+      "localidad": "Hamburg"
+    },
+    "contacto": {
+      "telefono": "040 / 3990 7227",
+      "email": "post@alonso-werner.de",
+      "web": "http://www.alonso-werner.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "WERTZ, Mario",
+    "especialidades": [
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "Greutterstr. 60a",
+      "codigoPostal": "",
+      "localidad": "Stuttgart"
+    },
+    "contacto": {
+      "telefono": "0049-71193362141  0049-71193362142",
+      "email": "info@anwalt-wertz.de",
+      "web": "www.anwalt-wertz.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "WITOPIL, Karl",
+    "especialidades": [
+      "Familiar",
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "‭0049 7432 7233‬",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "WLATER  FERNANDEZ ARNELLI, Alejandro  LL.M.",
+    "especialidades": [
+      "Civil",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": "Köln"
+    },
+    "contacto": {
+      "telefono": "49 (0) 221 29836586",
+      "email": "info@fernandezarnelli-law.de",
+      "web": "www.fernandezarnelli-law.de"
+    },
+    "comentario": "WLATER  FERNANDEZ ARNELLI, Alejandro  LL.M."
+  },
+  {
+    "nombre": "WODIANKA, Volker Dr.  LL.M.",
+    "especialidades": [
+      "Laboral"
+    ],
+    "direccion": {
+      "calle": "Baron-Voght-Strasse 73 b",
+      "codigoPostal": "",
+      "localidad": "Hamburg"
+    },
+    "contacto": {
+      "telefono": "22609",
+      "email": "info@ra-wodianka.de",
+      "web": "www.wodianka-legal.com"
+    },
+    "comentario": "WODIANKA, Volker Dr.  LL.M."
+  },
+  {
+    "nombre": "WULFF, Oliver",
+    "especialidades": [
+      "Civil",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Kardinal-Faulhaber-Str. 10",
+      "codigoPostal": "",
+      "localidad": "München"
+    },
+    "contacto": {
+      "telefono": "089 / 290 719 18",
+      "email": "o.wulff@rae-weiss.de",
+      "web": "http://www.rae-weiss.de/Team/dr_oliverwulff.php"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "WULFF, Oliver Dr.",
+    "especialidades": [
+      "Bancario/Financiero",
+      "Mercantil"
+    ],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "49 89 290719-18",
+      "email": "o.wulff@rae-weiss.de",
+      "web": "https://www.rae-weiss.de/team/dr-oliver-wulff-ll-m/"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "WÜLFRATH, Klaus",
+    "especialidades": [],
+    "direccion": {
+      "calle": "Karlstr. 3-5",
+      "codigoPostal": "",
+      "localidad": "Karlsruhe"
+    },
+    "contacto": {
+      "telefono": "45894",
+      "email": "info@wuelfrath-partner.de",
+      "web": ""
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "ZIRNGIBL, Dino",
+    "especialidades": [
+      "Familiar",
+      "Sucesorio"
+    ],
+    "direccion": {
+      "calle": "Völkstrasse 27",
+      "codigoPostal": "",
+      "localidad": "Augsburg"
+    },
+    "contacto": {
+      "telefono": "0821 / 208294-0",
+      "email": "info@hz-kanzlei.de",
+      "web": "www.hz-kanzlei.de"
+    },
+    "comentario": ""
+  },
+  {
+    "nombre": "ZWEIGSTELLE Hutthurm",
+    "especialidades": [],
+    "direccion": {
+      "calle": "",
+      "codigoPostal": "",
+      "localidad": ""
+    },
+    "contacto": {
+      "telefono": "08505 - 91 53 48",
+      "email": "",
+      "web": ""
+    },
+    "comentario": ""
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "sourceFile": "C:\\Users\\alfre\\Documents\\01Proyectos\\hispaleman\\proyecto-hispaleman\\hispaleman_abogados\\Copia de Abogados-ES-DE.xlsx",
+  "sheet": "Tabellenblatt2",
+  "count": 21,
+  "examples": [
+    {
+      "specialty": "Derecho civil",
+      "whenToUse": "Conflictos entre particulares sobre bienes, contratos o daños.",
+      "example": "Un vecino filtra agua y arruina su techo; necesita reclamar la reparación y el pago de daños."
+    },
+    {
+      "specialty": "Derecho penal",
+      "whenToUse": "Cuando hay investigación o acusación de un delito (robo, lesiones, estafa, etc.).",
+      "example": "Le acusan de hurto en una tienda; requiere defensa penal desde la toma de declaración."
+    },
+    {
+      "specialty": "Derecho laboral",
+      "whenToUse": "Problemas con el contrato de trabajo, despidos, salarios o acoso laboral.",
+      "example": "Su empresa le despide verbalmente sin pagar indemnización; debe impugnar el despido."
+    },
+    {
+      "specialty": "Derecho fiscal / tributario",
+      "whenToUse": "Discrepancias con Hacienda sobre impuestos, sanciones o inspecciones.",
+      "example": "La Agencia Tributaria le gira una liquidación complementaria del IRPF que considera errónea."
+    },
+    {
+      "specialty": "Derecho mercantil / sociedades",
+      "whenToUse": "Constitución de empresas, pactos entre socios, compraventa de acciones.",
+      "example": "Quiere fundar una S.L. con dos socios y regular sus derechos de voto y salida."
+    },
+    {
+      "specialty": "Derecho inmobiliario",
+      "whenToUse": "Compraventa, arrendamientos, vicios ocultos, registralidad y obras.",
+      "example": "Compra un piso y descubre aluminosis; busca resolver el contrato o exigir rebaja del precio."
+    },
+    {
+      "specialty": "Derecho sucesorio / hereditario",
+      "whenToUse": "Testamentos, herencias, particiones y legítimas.",
+      "example": "Muere su padre sin testamento; necesita aceptar la herencia y repartir bienes entre hermanos."
+    },
+    {
+      "specialty": "Derecho de familia",
+      "whenToUse": "Divorcios, custodias, pensiones alimenticias y adopciones.",
+      "example": "Tras separarse, debe fijar la custodia compartida de sus hijos y la pensión alimenticia."
+    },
+    {
+      "specialty": "Derecho de extranjería / migratorio",
+      "whenToUse": "Visados, permisos de residencia y nacionalidad, expulsiones.",
+      "example": "Es estudiante extranjero y desea convertir su visado en permiso de trabajo tras graduarse."
+    },
+    {
+      "specialty": "Derecho de propiedad intelectual",
+      "whenToUse": "Registro y defensa de obras, patentes, marcas y derechos de autor.",
+      "example": "Publican su fotografía sin permiso en una campaña publicitaria; reclama indemnización."
+    },
+    {
+      "specialty": "Derecho administrativo",
+      "whenToUse": "Sanciones o licencias impuestas por la Administración; recursos contenciosos.",
+      "example": "El ayuntamiento le multa por obras sin licencia y quiere impugnar la sanción."
+    },
+    {
+      "specialty": "Derecho bancario / financiero",
+      "whenToUse": "Cláusulas abusivas, productos tóxicos, ejecuciones hipotecarias.",
+      "example": "Firmó una hipoteca con cláusula suelo y pretende su nulidad y devolución de intereses."
+    },
+    {
+      "specialty": "Derecho internacional privado",
+      "whenToUse": "Contratos o disputas con elementos de varios países; elección de ley y foro.",
+      "example": "Empresa española firma contrato con proveedor chino y necesita fijar jurisdicción y arbitraje."
+    },
+    {
+      "specialty": "Derecho concursal / insolvencia",
+      "whenToUse": "Quiebras empresariales, concursos de acreedores y segunda oportunidad.",
+      "example": "Su empresa no puede pagar a proveedores; quiere acogerse a concurso voluntario."
+    },
+    {
+      "specialty": "Derecho de protección de datos / TIC",
+      "whenToUse": "Uso de datos personales, brechas de seguridad, redes sociales.",
+      "example": "Una web expone datos de clientes sin consentimiento y afronta denuncia ante la AEPD."
+    },
+    {
+      "specialty": "Cómo utilizar la tabla",
+      "whenToUse": "",
+      "example": ""
+    },
+    {
+      "specialty": "Identifique el problema (¿es un contrato roto, un delito, un impuesto?).",
+      "whenToUse": "",
+      "example": ""
+    },
+    {
+      "specialty": "Busque la columna “Especialidad jurídica” que se corresponda con su situación.",
+      "whenToUse": "",
+      "example": ""
+    },
+    {
+      "specialty": "Si aún duda, compare su caso con el ejemplo práctico: si se parece, es la rama adecuada.",
+      "whenToUse": "",
+      "example": ""
+    },
+    {
+      "specialty": "Contacte con un abogado que mencione explícitamente esa especialidad en su perfil profesional.",
+      "whenToUse": "",
+      "example": ""
+    },
+    {
+      "specialty": "De este modo, incluso sin conocimientos legales previos, tendrá una guía clara para localizar al profesional adecuado a su necesidad.",
+      "whenToUse": "",
+      "example": ""
+    }
+  ]
+}

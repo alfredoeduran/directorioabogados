@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalle del Apartamento - HispaLeman</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .detail-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        
+        .back-button {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        
+        .back-button:hover {
+            background: #0056b3;
+        }
+        
+        .property-source {
+            display: flex;
+            align-items: center;
+        }
+        
+        #property-source-badge {
+            background: #28a745;
+            color: white;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: bold;
+        }
+        
+        .detail-content {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 30px;
+        }
+        
+        .detail-main {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        
+        .detail-image {
+            height: 400px;
+            overflow: hidden;
+        }
+        
+        #property-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        
+        .property-header {
+            padding: 30px 30px 20px;
+        }
+        
+        #property-title {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 15px;
+        }
+        
+        .price-section {
+            display: flex;
+            align-items: baseline;
+            gap: 10px;
+        }
+        
+        .price-amount {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #28a745;
+        }
+        
+        .price-label {
+            color: #666;
+            font-size: 1rem;
+        }
+        
+        .property-details {
+            padding: 0 30px 20px;
+        }
+        
+        .details-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+        }
+        
+        .detail-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 12px 15px;
+            background: #f8f9fa;
+            border-radius: 8px;
+        }
+        
+        .detail-label {
+            font-weight: 600;
+            color: #555;
+        }
+        
+        .no-deposit {
+            color: #28a745;
+            font-weight: bold;
+        }
+        
+        .description-section {
+            padding: 20px 30px 30px;
+            border-top: 1px solid #eee;
+        }
+        
+        .description-section h2 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        
+        .company-info {
+            background: #e3f2fd;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .company-info h3 {
+            color: #1976d2;
+            margin-bottom: 10px;
+        }
+        
+        .room-description, .amenities, .community-benefits {
+            margin-bottom: 25px;
+        }
+        
+        .amenities ul, .community-benefits ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .amenities li, .community-benefits li {
+            padding: 8px 0;
+            border-bottom: 1px solid #f0f0f0;
+        }
+        
+        .contact-sidebar {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        
+        .contact-section {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        .contact-phone {
+            display: block;
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #28a745;
+            text-decoration: none;
+            margin: 10px 0;
+        }
+        
+        .contact-buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin: 20px 0;
+        }
+        
+        .contact-button {
+            padding: 12px 20px;
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .contact-button.primary {
+            background: #25d366;
+            color: white;
+        }
+        
+        .contact-button.primary:hover {
+            background: #128c7e;
+        }
+        
+        .contact-button.secondary {
+            background: #f8f9fa;
+            color: #333;
+            border: 1px solid #ddd;
+        }
+        
+        .contact-button.secondary:hover {
+            background: #e9ecef;
+        }
+        
+        .property-stats {
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+        }
+        
+        .stat-item {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 8px;
+        }
+        
+        .similar-properties {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        
+        .similar-button {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            margin-top: 15px;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 50px;
+            color: #666;
+        }
+        
+        .error {
+            text-align: center;
+            padding: 50px;
+            color: #dc3545;
+        }
+        
+        @media (max-width: 768px) {
+            .detail-content {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="detail-header">
+            <button onclick="history.back()" class="back-button">← Volver a resultados</button>
+            <div class="property-source">
+                <span id="property-source-badge">WG-Gesucht</span>
+            </div>
+        </div>
+        
+        <div id="loading" class="loading">
+            <h2>Cargando detalles del apartamento...</h2>
+        </div>
+        
+        <div id="error" class="error" style="display: none;">
+            <h2>Error al cargar el apartamento</h2>
+            <p>No se pudo encontrar la información del apartamento solicitado.</p>
+        </div>
+        
+        <div id="property-detail" class="detail-content" style="display: none;">
+            <!-- El contenido se cargará dinámicamente -->
+        </div>
+    </div>
+
+    <script>
+        // Obtener ID de la propiedad desde URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const propertyId = urlParams.get('id');
+        
+        if (propertyId) {
+            loadPropertyDetails(propertyId);
+        } else {
+            showError();
+        }
+        
+        async function loadPropertyDetails(id) {
+            try {
+                const response = await fetch(`/api/property/${id}`);
+                if (!response.ok) {
+                    throw new Error('Propiedad no encontrada');
+                }
+                
+                const property = await response.json();
+                displayPropertyDetails(property);
+            } catch (error) {
+                console.error('Error cargando detalles:', error);
+                showError();
+            }
+        }
+        
+        function displayPropertyDetails(property) {
+            const detailContainer = document.getElementById('property-detail');
+            
+            detailContainer.innerHTML = `
+                <div class="detail-main">
+                    <div class="detail-image">
+                        <img id="property-image" src="${property.image || 'https://via.placeholder.com/800x400?text=Habitación+Amueblada'}" alt="${property.title}">
+                    </div>
+                    
+                    <div class="property-header">
+                        <h1 id="property-title">${property.title}</h1>
+                        <div class="price-section">
+                            <span class="price-amount">€${property.price}</span>
+                            <span class="price-label">por mes (todo incluido)</span>
+                        </div>
+                    </div>
+                    
+                    <div class="property-details">
+                        <div class="details-grid">
+                            <div class="detail-item">
+                                <span class="detail-label">📍 Ubicación:</span>
+                                <span>${property.location}</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="detail-label">🏠 Habitaciones:</span>
+                                <span>${property.rooms}</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="detail-label">🏙️ Ciudad:</span>
+                                <span>${property.city}</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="detail-label">📅 Disponible desde:</span>
+                                <span>${formatDate(property.created_at || new Date())}</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="detail-label">📏 Tamaño:</span>
+                                <span>${Math.floor(Math.random() * 10) + 20}-${Math.floor(Math.random() * 10) + 30} m²</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="detail-label">💰 Depósito:</span>
+                                <span class="no-deposit">¡Sin depósito!</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="description-section">
+                        <h2>Descripción de la propiedad</h2>
+                        <div class="description-content">
+                            <div class="company-info">
+                                <h3>🏢 URBANELITE.COM</h3>
+                                <p><strong>¿Quiénes somos?</strong></p>
+                                <p>Somos una start-up comprometida con la acogida de ambiciosos jóvenes profesionales de 21 a 35 años. Creemos que acoger go-getters de mente similar es esencial para una atmósfera plana agradable.</p>
+                            </div>
+                            
+                            <div class="room-description">
+                                <h3>🛏️ Tu habitación:</h3>
+                                <p>${getCustomDescription(property)}</p>
+                            </div>
+                            
+                            <div class="amenities">
+                                <h3>✨ Servicios incluidos:</h3>
+                                <ul>
+                                    <li>✅ Electricidad incluida</li>
+                                    <li>✅ Internet de alta velocidad (100 Mbit/s)</li>
+                                    <li>✅ Agua y calefacción</li>
+                                    <li>✅ Lavadora</li>
+                                    <li>✅ Cocina totalmente equipada</li>
+                                    <li>✅ Servicio de comunidad 24/7</li>
+                                    <li>✅ Sin costos ocultos</li>
+                                    <li>✅ Registro en la ciudad incluido</li>
+                                </ul>
+                            </div>
+                            
+                            <div class="community-benefits">
+                                <h3>🤝 Beneficios de la comunidad:</h3>
+                                <ul>
+                                    <li>🎉 Eventos periódicos organizados</li>
+                                    <li>🍽️ Cenas elegantes en restaurantes</li>
+                                    <li>🏠 Fiestas exclusivas en casa</li>
+                                    <li>🌐 Red extensa de profesionales exitosos</li>
+                                    <li>📞 Soporte 24/7 para cualquier consulta</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="contact-sidebar">
+                    <div class="contact-section">
+                        <h3>📞 Información de contacto</h3>
+                        <div class="contact-method">
+                            <p><strong>WhatsApp:</strong></p>
+                            <a href="tel:+4915154077729" class="contact-phone">+49 151 54077729</a>
+                            <p class="contact-note">¡Contáctanos directamente por WhatsApp!</p>
+                        </div>
+                        
+                        <div class="contact-buttons">
+                            <button class="contact-button primary">📱 Contactar por WhatsApp</button>
+                            <button class="contact-button secondary">📧 Enviar mensaje</button>
+                            <button class="contact-button secondary">⭐ Guardar favorito</button>
+                        </div>
+                        
+                        <div class="property-stats">
+                            <h4>📊 Estadísticas</h4>
+                            <div class="stat-item">
+                                <span>Visto:</span>
+                                <span>${Math.floor(Math.random() * 500) + 100} veces</span>
+                            </div>
+                            <div class="stat-item">
+                                <span>Publicado:</span>
+                                <span>${formatDate(property.created_at || new Date())}</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="similar-properties">
+                        <h4>🏠 Propiedades similares</h4>
+                        <p>Descubre más opciones en la misma zona</p>
+                        <button class="similar-button">Ver similares</button>
+                    </div>
+                </div>
+            `;
+            
+            // Actualizar badge de fuente
+            const sourceBadge = document.getElementById('property-source-badge');
+            if (property.source === 'wg-gesucht') {
+                sourceBadge.textContent = 'WG-Gesucht';
+                sourceBadge.style.background = '#28a745';
+            } else if (property.source === 'immobilienscout24') {
+                sourceBadge.textContent = 'ImmobilienScout24';
+                sourceBadge.style.background = '#ff6b35';
+            } else if (property.source === 'immowelt') {
+                sourceBadge.textContent = 'Immowelt';
+                sourceBadge.style.background = '#e74c3c';
+            } else if (property.source === 'immonet') {
+                sourceBadge.textContent = 'Immonet';
+                sourceBadge.style.background = '#9b59b6';
+            } else if (property.source === 'kleinanzeigen') {
+                sourceBadge.textContent = 'Kleinanzeigen';
+                sourceBadge.style.background = '#007bff';
+            } else {
+                sourceBadge.textContent = property.source || 'Desconocido';
+                sourceBadge.style.background = '#6c757d';
+            }
+            
+            // Ocultar loading y mostrar detalles
+            document.getElementById('loading').style.display = 'none';
+            detailContainer.style.display = 'grid';
+            
+            // Actualizar el título de la página
+            document.title = `${property.title} - HispaLeman`;
+            
+            // Configurar botón de WhatsApp
+            setupWhatsAppButton();
+        }
+        
+        function getCustomDescription(property) {
+            if (property.source === 'wg-gesucht') {
+                const size = Math.floor(Math.random() * 10) + 20;
+                return `La habitación es de ${size} metros cuadrados y particularmente brillante. Está equipada con una cama extra grande con ropa de cama fina, mesitas de noche, escritorio con silla correspondiente, armario grande y todos los muebles necesarios para una estancia cómoda.`;
+            } else {
+                return property.description || 'Apartamento bien ubicado con todas las comodidades necesarias.';
+            }
+        }
+        
+        function setupWhatsAppButton() {
+            const whatsappButton = document.querySelector('.contact-button.primary');
+            if (whatsappButton) {
+                whatsappButton.addEventListener('click', function() {
+                    const phone = '+4915154077729';
+                    const message = encodeURIComponent('Hola, estoy interesado en la habitación que publican en HispaLeman. ¿Podrían darme más información?');
+                    window.open(`https://wa.me/${phone}?text=${message}`, '_blank');
+                });
+            }
+        }
+        
+        function showError() {
+            document.getElementById('loading').style.display = 'none';
+            document.getElementById('error').style.display = 'block';
+        }
+        
+        function formatDate(date) {
+            const d = new Date(date);
+            return d.toLocaleDateString('es-ES', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric'
+            });
+        }
+    </script>
+</body>
+</html>

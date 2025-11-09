@@ -1,0 +1,62 @@
+{
+  "name": "hispaleman-abogados",
+  "version": "1.0.0",
+  "description": "Directorio de abogados en España para la comunidad hispanohablante",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "test": "jest --passWithNoTests",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "build": "npm run lint && npm test",
+    "build:vercel": "npm install && npm run build",
+    "vercel-build": "npm run build:vercel"
+  },
+  "keywords": [
+    "abogados",
+    "lawyers",
+    "directory",
+    "spain",
+    "legal",
+    "hispanic",
+    "search",
+    "api",
+    "express",
+    "nodejs"
+  ],
+  "author": "Hispaleman Team",
+  "license": "MIT",
+  "dependencies": {
+    "apify": "^3.5.0",
+    "apify-client": "^2.18.0",
+    "axios": "^1.12.2",
+    "cheerio": "^1.1.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.0",
+    "express": "^4.18.0",
+    "express-rate-limit": "^7.1.5",
+    "fs-extra": "^11.1.1",
+    "helmet": "^7.1.0",
+    "joi": "^17.11.0",
+    "jsonwebtoken": "^9.0.2",
+    "node-cron": "^4.2.1",
+    "puppeteer": "^24.28.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "redis": "^4.6.10",
+    "sqlite3": "^5.1.0",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.2",
+    "supertest": "^6.3.3"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

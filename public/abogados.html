@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Buscador de Abogados</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="abogados.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <h1>Abogados</h1>
+      <p>Encuentra al profesional ideal en segundos</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <nav class="tabs">
+      <button class="tab active" data-tab="form">Formulario</button>
+      <button class="tab" data-tab="ai">Búsqueda por IA</button>
+    </nav>
+
+    <section class="search-panel" id="tab-form">
+      <div class="field-group">
+        <label for="locality">Localidad</label>
+        <input id="locality" type="text" placeholder="Ej. Berlin, Mitte..." />
+      </div>
+      <div class="field-group">
+        <label for="postal">Código Postal</label>
+        <input id="postal" type="text" placeholder="Ej. 10115" />
+      </div>
+      <div class="field-group field-group--wide field-group--compact">
+        <label for="specialtySelect" title="Selecciona una especialidad">Especialidad</label>
+        <select id="specialtySelect">
+          <option value="">Todas las especialidades</option>
+        </select>
+      </div>
+      <div class="field-group checkbox-group">
+        <input id="hasWebsite" type="checkbox" />
+        <label for="hasWebsite">Sólo con web</label>
+      </div>
+      <div class="field-group" style="grid-column: 1 / -1; display: flex; flex-direction: row; gap: 8px;">
+        <button id="resetForm" class="btn" type="button">Reiniciar formulario</button>
+      </div>
+    </section>
+
+    <section class="search-panel" id="tab-ai" hidden>
+      <div class="field-group" style="grid-column: 1 / -1;">
+        <input id="aiQuery" type="text" placeholder="Escribe palabras clave..." aria-label="Búsqueda por palabras clave" />
+      </div>
+    </section>
+
+    <section id="stats" class="stats"></section>
+
+    <section id="results" class="results"></section>
+  </main>
+
+  <footer class="footer">
+    <small>Datos fuente: documento Excel proporcionado</small>
+  </footer>
+
+  <script src="abogados.js"></script>
+</body>
+</html>
